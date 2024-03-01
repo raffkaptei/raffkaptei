@@ -3,13 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raffkaptei&label=Profile%20views&color=0e75b6&style=flat" alt="raffkaptei" /> </p>
 
-<p align="center"> 🔭 I’m currently working on **my Development Skills** </p>
+<p align="center"> 🔭 I’m currently working on <strong>my Development Skills</strong> </p>
 
-<p align="center"> 🌱 I’m currently learning **Responsive Web Design** </p>
+<p align="center"> 🌱 I’m currently learning <strong>Responsive Web Design</strong> </p>
 
-<p align="center"> 👯 I’m looking to collaborate on **my codebase.** </p>
+<p align="center"> 👯 I’m looking to collaborate on <strong>my codebase</strong>. </p>
 
-<p align="center"> ⚡ Fun fact **"Wi-Fi" doesn't stand for anything; it's a brand name.** </p>
+<p align="center"> ⚡ Fun fact <strong>"Wi-Fi" doesn't stand for anything; it's a brand name.</strong> </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
